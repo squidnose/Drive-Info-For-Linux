@@ -1,4 +1,9 @@
 # TODO NOT DONE YET
+Discalimer, i used a llm to help with the coding
+
+I use lspci, lsblk, smartctl. 
+
+This script just makes it nicer to look at . 
 # Drive-Info-For-Linux
 A Crystal Disk Info Eqivalent for Linux
 

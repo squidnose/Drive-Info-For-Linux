@@ -1,5 +1,5 @@
 # TODO NOT DONE YET
-Discalimer, i used a llm to help with the coding
+Discalimer, i used an llm to help with the coding.
 
 I use lspci, lsblk, smartctl. 
 
